@@ -39,12 +39,4 @@ git clone https://github.com/joao-arrais7/crud-livros-java-sqlite.git
 
 Na primeira execução, o arquivo `biblioteca.db` e a tabela `livros` serão criados automaticamente (se ainda não existirem).
 
-## 🔍 Próximos passos (ideias de melhoria)
-
-- Validações de entrada (ex: não permitir campos vazios)
-- Tratamento de erros mais amigável
-- Substituir `JOptionPane` por uma interface gráfica mais completa ou API REST com Spring Boot
-
-git add README.md
-git commit -m "docs: melhora README do projeto"
-git push
+##
